@@ -5,7 +5,7 @@ INSTRUCTIONS
 
 1. Inside the cloned repository, download and unpack the kaggle dataset from microsoft (  https://www.microsoft.com/en-us/download/details.aspx?id=54765 )
 
-2. Run feedData.ipynb
+2. First, feedData.ipynb
 
 3. Project structure ----->  catDog_DeepLearning/feedData.ipynb
                              catDog_DeepLearning/CNN Classification.ipynb
